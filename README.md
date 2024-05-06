@@ -1,0 +1,1 @@
+The app that I have created is an app designed for any user. Its purpose is to act as a Tanmagotchi app. The application is amazingly simple. You have three buttons, one being a feed button, a clean button and a play button. Th. The clear button will clear all the information above, including the input age and the information about the historical figure.
