@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="getStartedButton" type="id" />
+    <item name="textView3" type="id" />
+    <item name="cleanTextView2" type="id" />
+    <item name="hungerTextView" type="id" />
+    <item name="coverImage" type="id" />
+    <item name="feedButton" type="id" />
+    <item name="cleanButton" type="id" />
+    <item name="playButton" type="id" />
+</resources>

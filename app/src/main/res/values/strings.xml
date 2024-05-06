@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">assignment2new</string>
+    <string name="your_tamagotchi_app">Your Tamagotchi App</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_jack">Welcome to Jack</string>
+    <string name="imageView2" />
+    <string name="imageView4" />
+    <string name="imageView5" />
+    <string name="play">Play</string>
+    <string name="clean">Clean</string>
+    <string name="hunger">Hunger</string>
+    <string name="Happy" />
+    <string name="Feed" />
+    <string name="Clean" />
+</resources>
